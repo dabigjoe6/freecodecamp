@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Joseph Olabisi",
-	"description": "Refreshing my brain on BE stuffs"
+	"description": "Refreshing my brain on BE stuffs",
+	"keywords": ["backend", "learning"]
 }
