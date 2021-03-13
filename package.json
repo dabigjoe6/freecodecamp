@@ -13,5 +13,6 @@
 	},
 	"author": "Joseph Olabisi",
 	"description": "Refreshing my brain on BE stuffs",
-	"keywords": ["backend", "learning", "freecodecamp"]
+	"keywords": ["backend", "learning", "freecodecamp"],
+	"license": "MIT"
 }
